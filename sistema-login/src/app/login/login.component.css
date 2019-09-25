@@ -1,0 +1,14 @@
+.text_esqueceu{
+    font-size: 95%;
+  }
+  .btn-login{
+      background-color: #8000ff;
+      color: white;
+      border-radius: 22.5px;
+      padding-top: 15px;
+      padding-bottom: 15px;
+  }
+  .form_login{
+      margin-left: 3%;
+      margin-right: 3%;
+  }

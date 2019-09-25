@@ -1,0 +1,49 @@
+.btn_rounded{
+    border-radius: 40px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.btn_logout{
+    border-radius: 40px;
+    padding-left: 2%;
+    padding-right: 2%; 
+}
+.custom_card{
+    width: 85%;
+    margin-left: 6.25%;
+}
+.custom_card_mid{
+    width: 90%;
+    margin-left: 5%;
+}
+.card_text_color{
+    color: #8000ff;
+}
+.btn_rounded_card{
+    border-radius: 40px;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+.div_cards{
+    width: 85%;
+    margin-left: 6.25%;
+}
+.img_cards{
+    width: 80%;
+    margin-left: 10%;
+}
+.text_footer{
+    color:  #595959;
+}
+.image_footer{
+    background-image: url('../../assets/footer_img.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-origin: 0px 0px;
+    background-position: 100% 100%;
+    background-size: 50%;
+}
+
+.footer_info{
+    margin-left: 20%;
+}
